@@ -28,14 +28,21 @@ Cylinder 3.0 use coil Y4 for extension.
 **Solution:**
 
 Soultion to this problem is developed on OpenPLC simulation using Function Body Diagram and Ladder Diagram.
+
 **Demonstration:**
 
 Download this repository.
+
 Open *OpenPLC* on your system.
+
 Navigate to *Open Folder*.
+
 Select *Project_LD* for viewing ladder diagram,
+
 OR
+
 Select *Project_FBD* for viewing function body diagram.
+
 Click *Run Icon* for demonstration.
 
 
