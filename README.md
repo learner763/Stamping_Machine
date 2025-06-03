@@ -24,3 +24,7 @@ the whole machine should rest for 30 seconds before starting the next cycle via 
 Cylinder 1.0 use coil Y1 for clamping or extension and Y2 for unclamping or retracting.
 Cylinder 2.0 use coil Y3 for extension.
 Cylinder 3.0 use coil Y4 for extension.
+
+Solution:
+Soultion to this problem is developed on OpenPLC simulation using Functional Body Diagram and Ladder Diagram.
+S
