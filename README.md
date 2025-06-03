@@ -25,7 +25,18 @@ Cylinder 1.0 use coil Y1 for clamping or extension and Y2 for unclamping or retr
 Cylinder 2.0 use coil Y3 for extension.
 Cylinder 3.0 use coil Y4 for extension.
 
-**#Solution:**
+**Solution:**
 
-Soultion to this problem is developed on OpenPLC simulation using Functional Body Diagram and Ladder Diagram.
-S
+Soultion to this problem is developed on OpenPLC simulation using Function Body Diagram and Ladder Diagram.
+**Demonstration:**
+
+Download this repository.
+Open *OpenPLC* on your system.
+Navigate to *Open Folder*.
+Select *Project_LD* for viewing ladder diagram,
+OR
+Select *Project_FBD* for viewing function body diagram.
+Click *Run Icon* for demonstration.
+
+
+
